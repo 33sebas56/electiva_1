@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>html_semana_2</title>
+    <style>
+    .centrado{text-align:center;}
+    div{position:absolute;
+      border:lpx solid #000;
+      width50%;}
+</head>
+
+<body>
+    <h1>
+      <p class="centrado">Ciudades de colombia</p>
+         </h1>
+  <div>
+         
+    <h3>
+        pasto
+        <h3 />
+
+        is a city in westerm colombia knock for is blacks and whites carnival.</br>
+        the carnival museum houses giant figures used in the celebratory parades </br>
+        the clonial, moorish-influenced temple of st. john the baptist sits beside</br>
+        central nariño square the banco de la republica gold museum displays </br>
+        precious pre-columbian artifacts.
+</br>
+        <p>
+            southwest of pasto is las lajas sanctuary, a gothic church build into in gorge.
+        </p>
+
+        <h3>
+            medellin.
+        </h3>
+        <script src="script.js"></script>
+</body>
+
+
+</html>
